@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erik!</h1>
 <!-- <h3 align="center">A passionate developer</h3> -->
 
+- Third-year student at Carleton University studying a Bachelor in Software Engineering
+- Software Mentor at Merge Robotics, FRC team 2706
+- Team member of the Carleton Planetary Robotics Team
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikcald&label=Profile%20views&color=0e75b6&style=flat" alt="erikcald" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikcald&theme=onedark" alt="erikcald" /></a> </p>
