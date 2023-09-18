@@ -7,7 +7,7 @@
 - Software Mentor at Merge Robotics, FRC team 2706
 - Team member of the Carleton Planetary Robotics Team
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikcald&theme=onedark" alt="erikcald" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikcald&theme=onedark&rank=-C,-B" alt="erikcald" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
